@@ -1,0 +1,2 @@
+# Robin-Hood-Py
+Our game will revolve around the notion of ‘Robin Hood’ to fit into the theme of charity as requested by client. Rich tax collectors (cats) will be trying to take money from the poor, and Robin Hood will be trying to stop them. In the process, he will try to collect money to give to the poor. To reduce the usual violent action the real Robin Hood uses, we’ll have our Robin shoot ‘arrows of love’ that convince the collectors to drop money and run away.
